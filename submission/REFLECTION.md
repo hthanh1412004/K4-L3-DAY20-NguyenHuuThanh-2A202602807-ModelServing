@@ -1,8 +1,8 @@
 # Reflection — Day 20 Lab (Personal Report)
 
-**Họ tên:** [CẦN BẠN ĐIỀN]
-**MSSV:** [CẦN BẠN ĐIỀN]
-**Cohort:** [CẦN BẠN ĐIỀN]
+**Họ tên:** Nguyễn Hữu Thành
+**MSSV:** 2A202602807
+**Cohort:** A20-K4
 **Ngày submit:** 2026-10-06
 
 ---
@@ -131,7 +131,7 @@ không thể chỉ suy ra từ số thread hoặc số bit.
 - [x] Có load test 10/50 users, saturation report và metrics batching
 - [x] Pipeline chạy đủ 3 query, khai báo real/stub rõ ràng
 - [x] Không còn phần nhận xét bắt buộc chưa điền trong `benchmarks/*.md`
-- [ ] Điền Họ tên, MSSV, cohort ở đầu file
+- [x] Đã điền Họ tên, MSSV, cohort ở đầu file
 - [ ] Tự chụp và thêm đủ 5 ảnh vào `submission/screenshots/`
 - [ ] Commit các file, chạy `make verify`, push repo public và nộp URL lên LMS
 
